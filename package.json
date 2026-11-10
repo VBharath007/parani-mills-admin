@@ -8,6 +8,8 @@
     "build": "npm --prefix frontend install && npm --prefix frontend run build",
     "build:frontend": "npm --prefix frontend run build",
     "start": "node backend/server.js"
+  },
+  "devDependencies": {
+    "wrangler": "^4.160.0"
   }
 }
-
