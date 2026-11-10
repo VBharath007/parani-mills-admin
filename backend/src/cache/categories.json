@@ -1,0 +1,72 @@
+[
+  {
+    "id": "hypoKsxVH3Ar6s6uGpmE",
+    "createdAt": "2026-10-26T13:26:31.622Z",
+    "name": "Brush Cutter",
+    "slug": "brush-cutter",
+    "updatedAt": "2026-10-28T05:25:35.988Z"
+  },
+  {
+    "id": "1MRzzGC80yjCzi46kpQo",
+    "createdAt": "2026-10-26T13:26:31.622Z",
+    "name": "Chaff Cutter & Wood Chipper",
+    "slug": "chaff-cutter-wood-chipper",
+    "updatedAt": "2026-10-30T05:59:34.449Z"
+  },
+  {
+    "id": "9xXiEcLIMngETtYBiisZ",
+    "createdAt": "2026-10-26T13:26:31.622Z",
+    "name": "Earth Augur",
+    "slug": "earth-augur",
+    "updatedAt": "2026-10-28T05:25:35.989Z"
+  },
+  {
+    "id": "97MKEUy3TUAgLz3aOcEk",
+    "createdAt": "2026-10-26T13:26:31.622Z",
+    "name": "Engines",
+    "slug": "engines",
+    "updatedAt": "2026-10-28T05:25:35.989Z"
+  },
+  {
+    "id": "6RDMNPMLQaNfOjkEwKoH",
+    "name": "Gensets",
+    "slug": "gensets",
+    "createdAt": "2026-11-05T11:43:41.588Z",
+    "updatedAt": "2026-11-05T11:43:41.588Z"
+  },
+  {
+    "id": "Rejl7v1K3KyvT3wzlWYj",
+    "name": "Hedge Trimmer",
+    "slug": "hedge-trimmer",
+    "createdAt": "2026-11-05T12:29:15.234Z",
+    "updatedAt": "2026-11-05T12:29:15.234Z"
+  },
+  {
+    "id": "BlFaaxzF7EjESwoT3lFI",
+    "name": "Honda Products",
+    "slug": "honda-products",
+    "createdAt": "2026-10-26T13:26:31.622Z",
+    "updatedAt": "2026-10-30T05:33:34.485Z"
+  },
+  {
+    "id": "eP913oJngYTiKkH96hXv",
+    "createdAt": "2026-10-26T13:26:31.622Z",
+    "name": "Sprayer",
+    "slug": "sprayer",
+    "updatedAt": "2026-10-28T05:25:35.989Z"
+  },
+  {
+    "id": "6q8yqJ7aUKdXb9SyVrNn",
+    "createdAt": "2026-10-26T13:26:31.622Z",
+    "name": "Water Pump",
+    "slug": "water-pump",
+    "updatedAt": "2026-10-28T05:25:35.989Z"
+  },
+  {
+    "id": "HrxCZfoUHN5qouz80YP7",
+    "createdAt": "2026-10-26T13:26:31.622Z",
+    "name": "Weeder",
+    "slug": "weeder",
+    "updatedAt": "2026-10-28T05:25:35.989Z"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "name": "parani-mill-stores-backend",
+  "version": "1.0.0",
+  "description": "Admin backend for Parani Mill Stores",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon --ignore src/cache/ server.js",
+    "seed:admin": "node src/seed/admin.seed.js",
+    "seed:blogs": "node src/seed/blogs.seed.js",
+    "seed:products": "node src/seed/products.seed.js",
+    "feed:images": "node src/seed/uploadImagesToCloudinary.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.11.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "firebase-admin": "^14.4.0",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

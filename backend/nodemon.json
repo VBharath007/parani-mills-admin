@@ -1,0 +1,13 @@
+{
+  "watch": ["src/", "server.js"],
+  "ignore": [
+    "src/cache/*",
+    "node_modules/*",
+    "*.log",
+    "test_*.js",
+    "feed_*.js",
+    "fix_*.js",
+    "sync_*.js"
+  ],
+  "ext": "js,mjs,cjs"
+}

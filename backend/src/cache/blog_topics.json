@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pKC8p945Tb2lKCVYWDDL",
+    "name": "Buying Guide",
+    "slug": "buying-guide",
+    "createdAt": "2026-10-30T07:08:55.479Z"
+  },
+  {
+    "id": "Cl57PjzDfOFqjIXKHnqm",
+    "name": "General",
+    "slug": "general",
+    "createdAt": "2026-10-30T07:07:29.408Z"
+  },
+  {
+    "id": "6g5uVOAS4HuaJstU5QNl",
+    "name": "Honda Products",
+    "slug": "honda-products",
+    "createdAt": "2026-10-30T10:21:48.800Z"
+  },
+  {
+    "id": "N4zhOHaocbWp53jlwGfc",
+    "name": "Maintenance & Service",
+    "slug": "maintenance-service",
+    "createdAt": "2026-10-30T10:21:47.178Z"
+  },
+  {
+    "id": "RFzUaKv9lpVowB8IOv0h",
+    "name": "Technical Reviews",
+    "slug": "technical-reviews",
+    "createdAt": "2026-10-30T07:59:22.179Z"
+  }
+]
