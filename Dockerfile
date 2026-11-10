@@ -2,11 +2,12 @@ FROM node:20-alpine
 
 WORKDIR /app
 
-COPY backend/package*.json ./
+COPY backend/package.json ./
 
-RUN npm install
+RUN npm install && npm install @google-cloud/firestore
 
-COPY backend/ ./
+COPY backend/src ./src
+COPY backend/server.js ./server.js
 
 ENV PORT=5001
 EXPOSE 5001
