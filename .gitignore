@@ -13,6 +13,7 @@ frontend/dist/
 backend/.env
 backend/.env.local
 *serviceAccountKey*.json
+*railway*.txt
 
 # Logs
 *.log
