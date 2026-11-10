@@ -13,6 +13,7 @@
     "feed:images": "node src/seed/uploadImagesToCloudinary.js"
   },
   "dependencies": {
+    "@google-cloud/firestore": "^9.2.0",
     "bcryptjs": "^2.4.3",
     "cloudinary": "^2.11.0",
     "cors": "^2.8.5",
