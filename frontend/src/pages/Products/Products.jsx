@@ -715,9 +715,9 @@ const Products = () => {
       const cleanImg = imgPath.startsWith('/') ? imgPath.slice(1) : imgPath;
       if (product.folder) {
         const cleanFolder = (product.folder.startsWith('/') ? product.folder.slice(1) : product.folder).replace(/\/+/g, '/');
-        return `http://localhost:5173/${cleanFolder}/${cleanImg}`;
+        return `https://paranimillstore.pages.dev/${cleanFolder}/${cleanImg}`;
       }
-      return `http://localhost:5173/${cleanImg}`;
+      return `https://paranimillstore.pages.dev/${cleanImg}`;
     }
     return defaultImagesMap[product?.name] || null;
   };

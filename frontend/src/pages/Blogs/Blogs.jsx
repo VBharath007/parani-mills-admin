@@ -397,7 +397,7 @@ const Blogs = () => {
     if (imgPath) {
       if (imgPath.startsWith('http') || imgPath.startsWith('data:')) return imgPath;
       const cleanPath = imgPath.startsWith('/') ? imgPath : `/${imgPath}`;
-      return `http://localhost:5173${cleanPath}`;
+      return `https://paranimillstore.pages.dev${cleanPath}`;
     }
     return fallbackImage;
   };
